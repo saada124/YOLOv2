@@ -183,14 +183,6 @@ The system is highly configurable via `backend/config.py`:
 
 ---
 
-## 🤝 Contributing & Support
-
-- **Bug Reports:** Open an issue on GitHub.
-- **Pull Requests:** Feel free to submit enhancements.
-- **Feedback:** Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
 ## 📜 License
 
 This project is licensed under the MIT License.
